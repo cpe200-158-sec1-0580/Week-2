@@ -1,6 +1,6 @@
 using System;
 
-namespace Lab2
+namespace Lab202
 {
 	class MainClass
 	{
@@ -40,7 +40,7 @@ namespace Lab2
 			cpe453.Lecturer = "Sansanee";
 			cpe453.MaxStudents = 20;
 			Console.WriteLine (cpe453);
-
-		}
+            Console.ReadKey();
+        }
 	}
 }
